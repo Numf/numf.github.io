@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "1383171981.com.expoplatform.checkin",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
